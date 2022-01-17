@@ -1,26 +1,26 @@
 {
-   "token": "Bot Token",
+   "token": "OTI3MTI4NjY0NDc3NDA5Mjgw.YdFt2g.vnWpiWhemUezTy2Hcub_0PHVgVs",
    "prefix": "?",
    "ownerIDS": [
-      "442355791412854784"
+      "908678804489244672"
    ],
    "status": {
-      "text": "{prefix}help | played {songsplayed} Songs on {guildcount} Guilds | Support: discord.gg/milrato",
-      "text2": "By: milrato.dev",
+      "text": "{prefix}help | played {songsplayed} Songs on {guildcount} Guilds |",
+      "text2": "?help",
       "type": "PLAYING",
       "url": "https://twitch.tv/#"
    },
    "clientsettings": {
       "nodes": [
          {
-            "host": "localhost",
-            "port": 2333,
-            "password": "youshallnotpass"
+            "host": "lava.link",
+            "port": 80,
+            "password": "youshallnot8888888pass"
          }
       ]
    },
    "spotify": {
-      "clientID": "",
-      "clientSecret": ""
+      "clientID": "1e6cdbc321a34f38b2d44005d319ac8e",
+      "clientSecret": "34e7ac67369d4fdd84409a11bc136dc7"
    }
 }
